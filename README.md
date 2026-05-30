@@ -1,7 +1,3 @@
-Here's the updated webpage with actual moon and Mars images incorporated into the fancy design:
-
-xml
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
